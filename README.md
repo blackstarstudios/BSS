@@ -1,2 +1,5 @@
 # BSS
-Style and formatting guidelines for the Blackstar Style Standard (BSS)
+
+## Introduction
+
+BSS stands for Blackstar Style Standard
